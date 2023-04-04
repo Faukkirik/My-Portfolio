@@ -1,5 +1,5 @@
 .contactsBlock{
-    min-height: 80vh;
+    min-height: 60vh;
     background-color: lightgoldenrodyellow;
 
 }
@@ -12,11 +12,11 @@
     background-color: maroon;
 }
 .input{
-    margin: 10px;
+    margin: 5px;
     min-width: 250px;
 }
 .textarea{
-    margin: 10px;
+    margin: 5px;
     min-width: 250px;
 }
 .button{
