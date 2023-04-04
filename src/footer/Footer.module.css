@@ -1,0 +1,25 @@
+.footerBlock{
+    min-height: 50vh;
+    background-color: khaki;
+}
+.footerContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 200px;
+}
+.title{
+    background-color: chocolate;
+}
+.blockContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border: 1px solid;
+    width: 80%;
+    max-width: 350px;
+}
+.span{
+    background-color: dimgray;
+}

@@ -1,0 +1,25 @@
+.contactsBlock{
+    min-height: 80vh;
+    background-color: lightgoldenrodyellow;
+
+}
+.contactsContainer{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+.title{
+    background-color: maroon;
+}
+.input{
+    margin: 10px;
+    min-width: 250px;
+}
+.textarea{
+    margin: 10px;
+    min-width: 250px;
+}
+.button{
+    background-color: chocolate;
+    margin: 10px;
+}

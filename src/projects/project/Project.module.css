@@ -1,0 +1,29 @@
+.project{
+    width: 300px;
+    background-color: indianred;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 350px;
+}
+.icon{
+    height: 100%;
+    width: 100%;
+    background-color: dimgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    background-color: chocolate;
+}
+.title{
+    background-color: aqua;
+}
+.description{
+    background-color:  lightgoldenrodyellow;
+}
+.text{
+    box-sizing: border-box;
+    padding: 10px;
+}

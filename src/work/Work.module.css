@@ -1,0 +1,16 @@
+.workBlock{
+    min-height: 20vh;
+    background-color: cadetblue;
+}
+.containerWork{
+   display: flex;
+    flex-direction: column;
+}
+.title{
+    background-color: #d3d095;
+    text-align: center;
+}
+.button{
+    background-color: maroon;
+    margin: 20px;
+}
